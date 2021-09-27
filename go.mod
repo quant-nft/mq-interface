@@ -1,3 +1,3 @@
-module github.com/quant-nft/mqi
+module github.com/quant-nft/mq-interface
 
 go 1.17
